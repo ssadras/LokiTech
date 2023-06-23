@@ -33,7 +33,7 @@ The WiFi-Smart-Lock project is licensed under the [GNU General Public License (G
 
 ## Acknowledgments
 
-We would like to acknowledge the contributions of all the individuals and open-source projects that have inspired and supported the development of the WiFi-Smart-Lock system.
+We would like to acknowledge the contributions of all the individuals, Earl of March (HS) Computer Engineering teacher, and open-source projects that have inspired and supported the development of LokiTech.
 
 If you have any questions or need further assistance, please don't hesitate to reach out.
 
