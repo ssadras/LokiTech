@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LokiTech</string>
+
+    <string name="login_title">LokiTech</string>
+    <string name="login_email">Email</string>
+    <string name="login_pass">Password</string>
+    <string name="login_submit">Sign in</string>
+    <string name="login_register">Register</string>
+
+    <string name="register_title">LokiTech</string>
+    <string name="register_email">Email</string>
+    <string name="register_pass">Password</string>
+    <string name="register_username">Username</string>
+    <string name="register_re_pass">Repeat Your Password</string>
+    <string name="register_submit">Sign up</string>
+
+    <string name="lock_list_title">Your locks</string>
+    <string name="lock_list_item_button">View</string>
+
+    <string name="lock_default_title">Your lock</string>
+    <string name="lock_default_active">Not active</string>
+    <string name="lock_pin_label">Your last pin</string>
+    <string name="lock_no_history">No History Available</string>
+    <string name="lock_pin_expiry_label">Pin expiry</string>
+    <string name="lock_pin_au_label">Pin available number of uses</string>
+    <string name="lock_new_pin_button">New pin</string>
+    <string name="lock_log_button">Log</string>
+
+    <string name="set_pin_default_title">Your lock</string>
+    <string name="set_pin_au_label">Available number of uses</string>
+    <string name="set_pin_expiry">Pick a date</string>
+    <string name="set_pin_expiry_label">Expiry date</string>
+    <string name="set_pin_button">Submit</string>
+
+    <string name="log_list_title">Logs</string>
+    <string name="log_list_subtitle">Your lock</string>
+</resources>
