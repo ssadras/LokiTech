@@ -17,11 +17,11 @@ Welcome to LokiTech, the WiFi-Smart-Lock repository! This project aims to provid
 
 To get started with the WiFi-Smart-Lock project, please refer to the README files within each respective folder. They provide detailed instructions on how to set up the development environment, configure dependencies, and run the code.
 
-- For the Lock Codes, navigate to the `Lock Codes` folder and follow the instructions in the README file.
+- For the Lock Codes, navigate to the `Lock` folder and follow the instructions in the README file.
 
-- For the Android App Codes, navigate to the `Android App Codes` folder and follow the instructions in the README file.
+- For the Android App Codes, navigate to the `Android App` folder and follow the instructions in the README file.
 
-- For the Server Codes, navigate to the `Server Codes` folder and follow the instructions in the README file.
+- For the Server Codes, navigate to the `Server` folder and follow the instructions in the README file.
 
 ## Contributing
 
