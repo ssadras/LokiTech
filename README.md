@@ -5,13 +5,13 @@ Welcome to LokiTech, the WiFi-Smart-Lock repository! This project aims to provid
 ## Contents
 
 1. Lock Codes:
-   - This folder contains the code for the ESP8266 (NodeMCU) microcontroller that controls the smart padlock. It includes the firmware and necessary libraries to interface with the keypad, solenoid lock mechanism, and Wi-Fi connectivity.
+   - This folder contains the code for the ESP8266 (NodeMCU) microcontroller that controls the smart padlock. It includes the firmware and necessary libraries to interface with the keypad, solenoid lock mechanism, and Wi-Fi connectivity. (Arduino ide platform used for the code)
 
 2. Android App Codes:
-   - This folder contains the code for the Android app that allows users to manage lock permissions, generate PIN codes, and view access logs. The app is built using Java in Android Studio and communicates with the server application for authentication and lock control.
+   - This folder contains the code for the Android app that allows users to manage lock permissions, generate PIN codes, and view access logs. The app is built using Java in Android Studio and communicates with the server application for authentication and lock control. (Android Studio Java platform used for the code)
 
 3. Server Codes:
-   - This folder contains the code for the server application that handles communication between the Android app and the smart padlock. It is implemented in Python and utilizes RESTful APIs for user authentication, PIN code generation, and access log management.
+   - This folder contains the code for the server application that handles communication between the Android app and the smart padlock. It is implemented in Python and utilizes RESTful APIs for user authentication, PIN code generation, and access log management. (Python used for the code)
 
 ## Getting Started
 
